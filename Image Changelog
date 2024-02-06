@@ -1,0 +1,18 @@
+##Initial Commit
+
+#Changelog 2024 Q1.1
+ 1. Add VirtIO Drivers
+ 2. Remove sleep button if present on user icon
+ 3. clean download folder on CISADMIN
+ 4. setup teamviewer auto login
+ 5. Resize recovery partition and apply Windows Update.
+ 6. Disable IE
+ 7. Ensure hybrid sleep is disabled
+ 8. usb selective suspend is disabled
+ 9. Verify CMD is in use on start menu
+ 10. Immediate install of automatic updates GP disabled
+ 11. Baloon tips on start menu items GP disabled
+ 12. Notifications on action center GP disabled.
+ 12. Verified proxy is not enabled in internet settings.
+ 13. Disable extra NICs
+ 14. Verify VirtIO drivers are in place.
